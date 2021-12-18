@@ -8,8 +8,8 @@ Ticker,   Yearly Change,    Percent Change,   Total Stock Volume
 Besides the summary table, the code will also identify the stocks that had the Greatest % Increase, Greatest % Decrease, and Greatest Total Volume
 
 ### Items uploaded to Github
-Added 2014 screen shot
-Added 2015 screen shot
-Added 2016 screen shot
-Added VBA code file
+Added 2014 screen shot,
+Added 2015 screen shot,
+Added 2016 screen shot,
+Added VBA code file,
 Added word document containing VBA code
